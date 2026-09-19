@@ -237,13 +237,13 @@ This keeps your secret outside your source code.
 ## 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ankit-kumar-sec/-Kai-AI-Chatbot
 ```
 
 Move into the project:
 
 ```bash
-cd Kai
+cd chatbot
 ```
 
 ---
